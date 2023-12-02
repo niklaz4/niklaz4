@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <div class="container" style="text-align: justify;">
         <h1>Bem-vindo ao Meu Portfólio! 👩‍💻📰</h1>
         <h2>Sobre Mim 🌟</h2>
         <p> Olá, me chamo Nicollas Alcântara e eu sou um estudante apaixonado por Jornalismo, Ciência de Dados e Segurança da Informação! 💻🎓 Tenho um olhar afiado para detalhes e
