@@ -18,45 +18,6 @@
             height: 100vh;
         }
 
-        .container {
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            text-align: center;
-        }
-
-        h1, h2 {
-            color: #2a65a0;
-        }
-
-        p {
-            line-height: 1.6;
-            margin-bottom: 20px;
-        }
-
-        a {
-            color: #2a65a0;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .contact {
-            font-size: 1.2em;
-            margin-top: 20px;
-        }
-
-        .emoji {
-            font-size: 1.5em;
-            margin-right: 5px;
-        }
-    </style>
-</head>
-
 <body>
     <div class="container">
         <h1>Bem-vindo ao Meu Portfólio! <span class="emoji">👩‍💻📰</span></h1>
