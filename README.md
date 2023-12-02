@@ -4,21 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-        }
 
-<body>
     <div class="container">
         <h1>Bem-vindo ao Meu Portfólio! <span class="emoji">👩‍💻📰</span></h1>
         <h2>Sobre Mim <span class="emoji">🌟</span></h2>
