@@ -23,10 +23,3 @@
 </body>
 
 </html>
-        <h2>Contate-me <i class="far fa-envelope"></i></h2>
-        <p>Estou sempre em busca de novas oportunidades e parcerias. Se você está procurando um entusiasta apaixonado por tecnologia e storytelling, ficarei feliz em conversar! Você pode me encontrar em meu <a href="https://www.linkedin.com/in/nicollas-alc%C3%A2ntara-8650b5132/">LinkedIn <i class="fab fa-linkedin"></i></a>.</p>
-        <p>Vamos criar conexões? <i class="far fa-star"></i><i class="far fa-star"></i></p>
-    </div>
-</body>
-
-</html>
