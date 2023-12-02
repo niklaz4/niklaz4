@@ -21,12 +21,3 @@
 </body>
 
 </html>
-        <h2>Contate-me 📫</h2>
-        <p>Estou sempre em busca de novas oportunidades e parcerias. Se você está procurando um entusiasta
-            apaixonado por tecnologia e storytelling, ficarei feliz em conversar! Você pode me encontrar em meu <a
-                href="https://www.linkedin.com/in/nicollas-alc%C3%A2ntara-8650b5132/">LinkedIn</a>.</p>
-        <p>Vamos criar conexões? 🌟✨</p>
-    </div>
-</body>
-
-</html>
