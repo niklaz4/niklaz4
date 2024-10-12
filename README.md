@@ -1,27 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #300a24;
+            color: #ffffff;
+            line-height: 1.4;
+            padding: 20px;
+        }
+        .terminal {
+            background-color: #300a24;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        }
+        .prompt {
+            color: #4e9a06;
+        }
+        .command {
+            color: #ffffff;
+        }
+        .output {
+            color: #eeeeec;
+            margin-left: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .stats img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
-
 <body>
-    <div class="container">
-        <h1>Bem-vindo ao Meu Portfólio! 👩‍💻📰</h1>
-        <h2>Sobre Mim 🌟</h2>
-        <p style="text-align: justify;"> Olá, me chamo Nicollas Alcântara e eu sou um profissional apaixonado por Cibersegurança! 💻🎓 Tenho um olhar afiado para detalhes e
-            estou sempre procurando maneiras criativas de contar histórias usando códigos, dados e storytelling.</p>
-        <h2> O que eu faço 🚀</h2>
-        <p style="text-align: justify;"> Sou analista de suporte Jr, e atualmente curso Ciência da Computação pela Uninter e Segurança da Informação pela Universidade Cruzeiro do Sul. Tenho conhecimentos em análise de dados em Python e R. Além disso, tenho conhecimentos sobre Big Data e bancos de dados, como MySQL, PostgreSQL, MongoDB e em conteiners Docker. Tenho conhecimentos em Java, C++. Tenho noções básicas de HTML, CSS e React. Possuo conhecimento em análise de dados em Excel e Power BI, e experiências em redações. Possuo conhecimento em redes de computadores e também em Shell Script de Linux. Atualmente, estou investindo nos estudos de Dados e também de purple team. Possuo uma excelente capacidade de comunicação, liderança e empatia, tendo atuado como analista de relacionamento com o cliente pelo <b>Nubank</b>, voluntário de Appsec na <b>Lacrei Saúde</b> e <b>Bichinhos da TI.</b> </p>
-        <h2>Contate-me 📫</h2>
-        <p style="text-align: justify;" >Estou sempre em busca de novas oportunidades e parcerias. Se você está procurando um entusiasta
-            apaixonado por tecnologia e storytelling, ficarei feliz em conversar! Você pode me encontrar em meu <a
-                href="https://www.linkedin.com/in/nicollas-alc%C3%A2ntara-8650b5132/">LinkedIn</a>.</p>
-        <p>Vamos criar conexões? 🌟✨</p><p><i class="fa-brands fa-linkedin"></i></p>
-        <h2> Projetos 👩‍💻 </h2>
-        <p style="text-align: justify;" ><a href="https://github.com/niklaz4/portfolio/tree/main/Spotify%20Most%20Similar%20Songs">Spotify Most Similar Songs:</a> Explorando a análise de dados musical, me dediquei ao projeto de encontrar as músicas mais similares no Spotify. Utilizei Python como minha principal ferramenta, aproveitando bibliotecas poderosas como Pandas para manipulação de dados, Seaborn para visualizações estatísticas, Numpy para operações matemáticas eficientes e Matplotlib para criação de gráficos elucidativos. Este processo envolveu a extração e análise de dados do Spotify, aplicando técnicas avançadas para identificar padrões e similaridades entre diferentes faixas musicais. O resultado final proporcionou uma visão aprofundada das relações musicais, destacando a versatilidade e potencial dessas ferramentas para explorar o vasto universo musical disponível no Spotify. <p><a href="https://github.com/niklaz4/portfolio/tree/main/Top%20Youtube%20Artist">Top Artistas do Youtube</a>: Em uma busca por compreender as tendências musicais no YouTube, embarquei em um projeto empolgante de identificar os principais artistas. Utilizando Python e suas bibliotecas robustas, como Pandas para manipulação de dados, Seaborn para visualizações estatísticas, Numpy para operações matemáticas eficientes e Matplotlib para gráficos informativos, explorei dados relevantes do YouTube. O processo envolveu análise detalhada dos números, revelando os artistas mais proeminentes e populares na plataforma. Essa abordagem ofereceu insights valiosos sobre as preferências musicais do público, destacando o poder das ferramentas de análise de dados para decifrar padrões e trends na vasta paisagem musical do YouTube.</p><p><a href="https://github.com/niklaz4/portfolio/tree/main/tratamento%20de%20dados%20UFOP">Tratamento de Dados UFOP</a>: Comprometido com a análise de dados educacionais, fiz uma breve análise sobre a universidade. Utilizando Python e suas bibliotecas especializadas, como Pandas para manipulação de dados, Seaborn para visualizações estatísticas, Numpy para operações matemáticas e Matplotlib para gráficos, explorei dados relacionados à UFOP. O processo incluiu a limpeza e organização de conjuntos de dados, identificação de padrões e tendências, além de apresentação visual por meio de gráficos elucidativos. Essa iniciativa proporcionou uma compreensão aprofundada da dinâmica da instituição, contribuindo para tomadas de decisões informadas e insights significativos sobre a realidade acadêmica da UFOP.</p></p>
+    <div class="terminal">
+        <div class="section">
+            <span class="prompt">user@github:~$</span> 
+            <span class="command">whois [Your Name]</span>
+            <pre class="output">
+Name: Nicollas "M1racle" Alcântara
+Location: Unknown
+Website: https://github.com/niklaz4
+            </pre>
+        </div>
+
+        <div class="section">
+            <span class="prompt">user@github:~$</span> 
+            <span class="command">cat education.txt</span>
+            <pre class="output">
+[Degree] in Computer Science and Information Security 
+Uninter and Universidade Cruzeiro do Sul
+Graduation Year: 2025
+
+[Degree] in Journalism for Universidade Federal de Ouro Preto [2024]
+            </pre>
+        </div>
+
+        <div class="section">
+            <span class="prompt">user@github:~$</span> 
+            <span class="command">ls skills/</span>
+            <pre class="output">
+[Javascript/React]   [Python]   [Database(SQL, MongoDB, NoSQL)]
+[Pentester]   [Application Security]   [CI/CD]
+[Cloud]   [Network]   [Intermediary English]
+            </pre>
+        </div>
+
+        <div class="section">
+            <span class="prompt">user@github:~$</span> 
+            <span class="command">cat career.txt</span>
+            <pre class="output">
+Current Role: IT Assistant
+Company: Confidential
+
+Area of Expertise: Offensive Security and Application Security
+
+Professional Experience:
+1. IT Customer Support at [NUBANK] (2021 - 2023)
+2. Application Security Analyst (Volunteer) at Lacrei Saúde (2024-2024)
+3. IT Assistant at [CONFIDENTIAL] (2024-)
+
+            </pre>
+        </div>
+
+        <div class="section">
+            <span class="prompt">user@github:~$</span> 
+            <span class="command">github-stats</span>
+            <pre class="output">
+Fetching latest stats...
+            </pre>
+            <div class="stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical" alt="Top Languages" />
+            </div>
+        </div>
     </div>
 </body>
-
 </html>
