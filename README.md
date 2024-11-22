@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=NICOLLAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Segurança da Informação pela UNICSUL e Ciência da Computação pela Uninter<br/> Eu sou pesquisador de segurança da informação e desenvolvedor react</p>
+<p>Segurança da Informação pela UNICSUL e Ciência da Computação pela Uninter<br/> Cibersecurity (Offensive Security and Appsec)</p>
