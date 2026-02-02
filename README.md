@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=NICOLLAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Segurança da Informação w Ciência da Computação<br/> Cibersecurity (Offensive Security and Appsec)</p>
+<p>Segurança da Informação e Ciência da Computação<br/> Cibersecurity (Offensive Security and Appsec)</p>
